@@ -1,0 +1,33 @@
+body {
+    background-color: white;
+    margin:0;
+}
+
+body {
+    background-image: linear-gradient(to bottom, #51adcf, #a5ecd7);
+    padding-bottom: 8%;
+}
+
+.h2 {
+    padding: 5%;
+    color: white;
+    font-size: 5rem;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+    background-color: transparent;
+}
+
+#carouselExampleSlidesOnly {
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
+.carousel-control-prev {
+    position: fixed;
+}
+
+.carousel-control-next {
+    position: fixed;
+}
